@@ -42,8 +42,8 @@ Given demographic and work-related features (like age, education, occupation, et
 
 1. Clone the repo  
 ```bash
-git clone https://github.com/Uttam1611/income-prediction-ml.git
-cd income-prediction-ml
+git clone https://github.com/Uttam1611/employee-salary-prediction
+cd employee-salary-prediction
 ```
 
 2. Create virtual environment  
