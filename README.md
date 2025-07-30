@@ -69,17 +69,6 @@ Open `notebooks/final.ipynb` and run step-by-step.
 - **F1 Score:** XX  
 - **ROC AUC:** XX
 
----
-
-## 📦 Deployment
-
-You can deploy the final model using:
-
-- Flask / Django REST API
-- Streamlit / Gradio Web UI
-- Docker + Heroku / Vercel / AWS
-
----
 
 ## 👨‍💻 Author
 
