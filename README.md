@@ -42,7 +42,7 @@ Given demographic and work-related features (like age, education, occupation, et
 
 1. Clone the repo  
 ```bash
-git clone https://github.com/your-username/income-prediction-ml.git
+git clone https://github.com/Uttam1611/income-prediction-ml.git
 cd income-prediction-ml
 ```
 
